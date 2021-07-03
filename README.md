@@ -16,7 +16,7 @@
 - Spark读写Parquet文件
 - Spark读写CSV文件
 - Spark读写ORC文件
-- Spark读写ORC文件
+- Spark读写Avro文件
 - Spark读写JSON文件
 - Spark读写Excel文件
 
